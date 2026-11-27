@@ -1,4 +1,4 @@
-# 💻 Repair Computer Services - Servicios de Reparación de Computadoras
+# 💻 Repair Computer Services - 
 
 📍 San Juan, Puerto Rico
 
