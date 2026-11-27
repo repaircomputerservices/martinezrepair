@@ -1,4 +1,4 @@
-# 💻 Martinez Repair - Servicios de Reparación de Computadoras
+# 💻 Repair Computer Services - Servicios de Reparación de Computadoras
 
 📍 San Juan, Puerto Rico
 
